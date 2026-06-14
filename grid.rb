@@ -22,7 +22,7 @@ class Tile
   end
 end
 
-# grid creation
+# grid creation 
 
 def create_grid(rows, cols, tile_size)
   grid = []
